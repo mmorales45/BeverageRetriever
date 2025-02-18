@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/robomarco/colcon_ws/install/open_manipulator_x_gui/include/**",
+        "/home/robomarco/colcon_ws/install/dynamixel_hardware_interface/include/**",
+        "/home/robomarco/colcon_ws/install/dynamixel_interfaces/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/robomarco/personal_project/src/BeverageRetriever/drink_arm/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
